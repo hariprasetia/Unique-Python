@@ -1,0 +1,3 @@
+Hello World!
+This is our new text file.
+We can create a new line. Cool, isnt it?!
